@@ -16,7 +16,7 @@ Crack for Parallels Desktop 18.0.1 破解版
 
 1. Install Parallels Desktop 18.0.1-53056.
 
-    [https://download.parallels.com/desktop/v18/18.0.2-53056/ParallelsDesktop-18.0.2-53056.dmg](https://download.parallels.com/desktop/v18/18.0.1-53056/ParallelsDesktop-18.0.1-53056.dmg)
+    [https://download.parallels.com/desktop/v18/18.0.1-53056/ParallelsDesktop-18.0.1-53056.dmg](https://download.parallels.com/desktop/v18/18.0.1-53056/ParallelsDesktop-18.0.1-53056.dmg)
 2. Exit parallels.
 
 3. Download this repo file.
